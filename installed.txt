@@ -1,0 +1,4 @@
+Abc.MoqComplete.Rider
+com.gmike.visual-studio-2019-dark
+com.intellij.resharper.StructuredLogging
+com.settler.rider.specflow
